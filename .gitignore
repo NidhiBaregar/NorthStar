@@ -1,0 +1,7 @@
+connection.env
+.env
+
+__pycache__/
+chroma_db/
+
+*.pyc

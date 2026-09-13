@@ -1,0 +1,101 @@
+campaign_id,campaign_date,campaign_name,channel,customers_contacted,responses,response_rate,avg_contacts_per_customer,high_fatigue_pct,campaign_budget,cost_per_response,campaign_status
+CMP-001,2026-01-15,November Cross-sell,Relationship,3724,332,0.0892,5.2,0.341,5862,17.66,Completed
+CMP-002,2026-01-17,August Premium Offer,Email,1957,184,0.094,2.2,0.1233,3544,19.26,Completed
+CMP-003,2026-01-19,September Re-engagement,Relationship,3027,271,0.0895,3.4,0.1715,4421,16.31,Active
+CMP-004,2026-01-21,November Cross-sell,Relationship,1983,110,0.0555,3.8,0.1795,4017,36.52,Completed
+CMP-005,2026-01-23,July Retention Campaign,Digital,3760,222,0.059,4.7,0.2613,3918,17.65,Completed
+CMP-006,2026-01-25,December Relationship Campaign,Relationship,452,48,0.1062,1.3,0.0789,915,19.06,Completed
+CMP-007,2026-01-27,September Re-engagement,Phone,3505,208,0.0593,5.8,0.3009,5195,24.98,Completed
+CMP-008,2026-01-29,September Re-engagement,Phone,4468,460,0.103,3.3,0.2061,10550,22.93,Completed
+CMP-009,2026-02-01,November Cross-sell,Phone,4746,607,0.1279,2.4,0.0626,7968,13.13,Completed
+CMP-010,2026-02-03,June Deposit Campaign,Phone,1016,74,0.0728,5.3,0.3425,2590,35.0,Completed
+CMP-011,2026-02-05,July Retention Campaign,Digital,4639,362,0.078,4.6,0.2708,8553,23.63,Completed
+CMP-012,2026-02-07,November Cross-sell,Phone,2577,166,0.0644,5.6,0.3571,2900,17.47,Active
+CMP-013,2026-02-09,July Retention Campaign,Email,3181,331,0.1041,2.7,0.1207,7194,21.73,Completed
+CMP-014,2026-02-11,July Retention Campaign,Phone,447,42,0.094,3.7,0.2129,606,14.43,Completed
+CMP-015,2026-02-13,December Relationship Campaign,Phone,2180,211,0.0968,3.8,0.2032,2966,14.06,Completed
+CMP-016,2026-02-16,September Re-engagement,Digital,3832,334,0.0872,5.7,0.3436,2914,8.72,Completed
+CMP-017,2026-02-18,August Premium Offer,Phone,858,83,0.0967,1.5,0.0576,1495,18.01,Completed
+CMP-018,2026-02-20,December Relationship Campaign,Email,3522,275,0.0781,2.5,0.1556,6042,21.97,Completed
+CMP-019,2026-02-22,December Relationship Campaign,Phone,1397,141,0.1009,2.0,0.0892,1923,13.64,Completed
+CMP-020,2026-02-24,July Retention Campaign,Relationship,4532,559,0.1233,2.4,0.1152,10872,19.45,Completed
+CMP-021,2026-02-26,October Growth Campaign,Email,3647,318,0.0872,3.4,0.1631,3445,10.83,Completed
+CMP-022,2026-02-28,September Re-engagement,Phone,2761,309,0.1119,2.9,0.1416,3664,11.86,Completed
+CMP-023,2026-03-03,June Deposit Campaign,Phone,2044,165,0.0807,3.0,0.1303,2680,16.24,Completed
+CMP-024,2026-03-05,December Relationship Campaign,Email,909,38,0.0418,5.1,0.3002,796,20.95,Completed
+CMP-025,2026-03-07,August Premium Offer,Email,3061,132,0.0431,5.5,0.3123,4941,37.43,Completed
+CMP-026,2026-03-09,October Growth Campaign,Email,1619,97,0.0599,1.4,0.1197,3249,33.49,Completed
+CMP-027,2026-03-11,October Growth Campaign,Email,2236,190,0.085,2.1,0.0686,3739,19.68,Completed
+CMP-028,2026-03-13,June Deposit Campaign,Phone,396,28,0.0707,4.3,0.2306,395,14.11,Completed
+CMP-029,2026-03-15,December Relationship Campaign,Phone,3469,399,0.115,2.8,0.1069,4915,12.32,Completed
+CMP-030,2026-03-18,August Premium Offer,Phone,3161,221,0.0699,2.3,0.0832,2228,10.08,Completed
+CMP-031,2026-03-20,September Re-engagement,Relationship,1984,260,0.131,2.5,0.1051,4662,17.93,Completed
+CMP-032,2026-03-22,May Savings Drive,Digital,2093,145,0.0693,2.6,0.1238,1801,12.42,Active
+CMP-033,2026-03-24,August Premium Offer,Phone,738,34,0.0461,5.1,0.2964,1354,39.82,Active
+CMP-034,2026-03-26,June Deposit Campaign,Phone,3226,252,0.0781,1.7,0.04,8303,32.95,Completed
+CMP-035,2026-03-28,October Growth Campaign,Phone,2209,246,0.1114,4.4,0.2221,3798,15.44,Completed
+CMP-036,2026-03-30,September Re-engagement,Phone,2635,221,0.0839,3.7,0.2245,6471,29.28,Active
+CMP-037,2026-04-02,August Premium Offer,Email,3169,293,0.0925,2.5,0.1144,3640,12.42,Completed
+CMP-038,2026-04-04,May Savings Drive,Digital,4986,411,0.0824,3.1,0.1787,10690,26.01,Completed
+CMP-039,2026-04-06,May Savings Drive,Relationship,2052,208,0.1014,2.3,0.122,3508,16.87,Completed
+CMP-040,2026-04-08,July Retention Campaign,Digital,4311,284,0.0659,4.0,0.2338,8919,31.4,Completed
+CMP-041,2026-04-10,July Retention Campaign,Phone,3619,340,0.0939,1.5,0.0492,2962,8.71,Completed
+CMP-042,2026-04-12,November Cross-sell,Email,512,47,0.0918,1.1,0.0847,502,10.68,Completed
+CMP-043,2026-04-14,June Deposit Campaign,Email,873,87,0.0997,4.1,0.2725,832,9.56,Completed
+CMP-044,2026-04-17,December Relationship Campaign,Digital,1266,67,0.0529,2.0,0.0688,2539,37.9,Completed
+CMP-045,2026-04-19,August Premium Offer,Email,3893,436,0.112,1.4,0.0885,8971,20.58,Completed
+CMP-046,2026-04-21,August Premium Offer,Digital,2299,222,0.0966,3.0,0.1547,4884,22.0,Completed
+CMP-047,2026-04-23,December Relationship Campaign,Digital,3973,319,0.0803,1.3,0.1143,3011,9.44,Active
+CMP-048,2026-04-25,November Cross-sell,Digital,4798,238,0.0496,5.3,0.3106,11264,47.33,Completed
+CMP-049,2026-04-27,October Growth Campaign,Phone,3358,375,0.1117,1.2,0.1088,4610,12.29,Completed
+CMP-050,2026-04-29,October Growth Campaign,Phone,4340,380,0.0876,3.8,0.2056,6313,16.61,Completed
+CMP-051,2026-05-02,November Cross-sell,Phone,2306,145,0.0629,3.2,0.1526,2074,14.3,Completed
+CMP-052,2026-05-04,October Growth Campaign,Digital,3420,267,0.0781,4.3,0.2552,7186,26.91,Completed
+CMP-053,2026-05-06,July Retention Campaign,Phone,1932,219,0.1134,2.6,0.1336,2022,9.23,Completed
+CMP-054,2026-05-08,August Premium Offer,Digital,2505,257,0.1026,1.8,0.1278,4438,17.27,Completed
+CMP-055,2026-05-10,November Cross-sell,Relationship,1404,83,0.0591,5.7,0.3655,3225,38.86,Completed
+CMP-056,2026-05-12,August Premium Offer,Phone,4749,213,0.0449,5.0,0.3098,4129,19.38,Completed
+CMP-057,2026-05-14,December Relationship Campaign,Digital,3441,192,0.0558,5.1,0.3524,5909,30.78,Completed
+CMP-058,2026-05-17,May Savings Drive,Email,1946,275,0.1413,2.3,0.1175,2224,8.09,Completed
+CMP-059,2026-05-19,July Retention Campaign,Phone,4241,276,0.0651,1.3,0.0639,5732,20.77,Completed
+CMP-060,2026-05-21,September Re-engagement,Phone,4973,387,0.0778,2.5,0.1514,7959,20.57,Completed
+CMP-061,2026-05-23,July Retention Campaign,Phone,4932,458,0.0929,3.6,0.1815,6780,14.8,Completed
+CMP-062,2026-05-25,November Cross-sell,Phone,1898,172,0.0906,2.6,0.1088,3668,21.33,Completed
+CMP-063,2026-05-27,September Re-engagement,Relationship,1695,128,0.0755,5.0,0.2838,2731,21.34,Completed
+CMP-064,2026-05-29,May Savings Drive,Email,4449,531,0.1194,2.4,0.0866,8053,15.17,Completed
+CMP-065,2026-06-01,November Cross-sell,Digital,4173,169,0.0405,5.6,0.3583,8763,51.85,Completed
+CMP-066,2026-06-03,June Deposit Campaign,Relationship,503,50,0.0994,3.2,0.1636,885,17.7,Completed
+CMP-067,2026-06-05,August Premium Offer,Email,3433,211,0.0615,5.1,0.2255,6229,29.52,Completed
+CMP-068,2026-06-07,May Savings Drive,Phone,2807,220,0.0784,2.0,0.0733,4975,22.61,Completed
+CMP-069,2026-06-09,August Premium Offer,Relationship,348,27,0.0776,3.0,0.1421,494,18.3,Completed
+CMP-070,2026-06-11,October Growth Campaign,Digital,2450,184,0.0751,4.4,0.2823,3286,17.86,Completed
+CMP-071,2026-06-13,June Deposit Campaign,Email,3211,371,0.1155,1.8,0.0659,7736,20.85,Completed
+CMP-072,2026-06-16,June Deposit Campaign,Relationship,4683,516,0.1102,1.7,0.1435,8684,16.83,Completed
+CMP-073,2026-06-18,May Savings Drive,Phone,4027,251,0.0623,5.7,0.3924,4689,18.68,Active
+CMP-074,2026-06-20,June Deposit Campaign,Phone,3119,239,0.0766,4.5,0.2578,5136,21.49,Completed
+CMP-075,2026-06-22,September Re-engagement,Phone,3484,308,0.0884,1.3,0.1087,4626,15.02,Completed
+CMP-076,2026-06-24,June Deposit Campaign,Digital,4041,438,0.1084,3.0,0.1681,9997,22.82,Completed
+CMP-077,2026-06-26,August Premium Offer,Email,1206,88,0.073,3.1,0.1683,861,9.78,Completed
+CMP-078,2026-06-28,August Premium Offer,Relationship,4317,256,0.0593,4.6,0.2951,4870,19.02,Completed
+CMP-079,2026-07-01,November Cross-sell,Phone,410,26,0.0634,2.3,0.1039,572,22.0,Completed
+CMP-080,2026-07-03,August Premium Offer,Digital,4743,419,0.0883,2.0,0.086,7716,18.42,Completed
+CMP-081,2026-07-05,November Cross-sell,Digital,1550,164,0.1058,1.5,0.1006,3591,21.9,Completed
+CMP-082,2026-07-07,August Premium Offer,Phone,4237,407,0.0961,3.1,0.2138,3673,9.02,Completed
+CMP-083,2026-07-09,September Re-engagement,Phone,1777,127,0.0715,4.3,0.2588,3965,31.22,Completed
+CMP-084,2026-07-11,December Relationship Campaign,Phone,1468,149,0.1015,1.4,0.0687,1183,7.94,Completed
+CMP-085,2026-07-13,November Cross-sell,Relationship,4746,368,0.0775,5.4,0.2843,10918,29.67,Completed
+CMP-086,2026-07-16,July Retention Campaign,Phone,4985,526,0.1055,3.2,0.219,3979,7.56,Completed
+CMP-087,2026-07-18,October Growth Campaign,Digital,3354,372,0.1109,2.2,0.0884,2464,6.62,Completed
+CMP-088,2026-07-20,May Savings Drive,Email,2985,196,0.0657,1.5,0.0934,6042,30.83,Completed
+CMP-089,2026-07-22,August Premium Offer,Phone,4805,245,0.051,2.0,0.1276,12468,50.89,Completed
+CMP-090,2026-07-24,June Deposit Campaign,Relationship,1204,80,0.0664,5.5,0.3482,2894,36.17,Completed
+CMP-091,2026-07-26,December Relationship Campaign,Relationship,4815,344,0.0714,4.1,0.2326,8640,25.12,Completed
+CMP-092,2026-07-28,August Premium Offer,Phone,3696,377,0.102,3.5,0.228,9030,23.95,Completed
+CMP-093,2026-07-31,June Deposit Campaign,Digital,1295,77,0.0595,4.2,0.2565,920,11.95,Completed
+CMP-094,2026-08-02,October Growth Campaign,Phone,1943,113,0.0582,3.1,0.1772,4960,43.89,Completed
+CMP-095,2026-08-04,October Growth Campaign,Phone,3686,238,0.0646,4.5,0.2294,6017,25.28,Completed
+CMP-096,2026-08-06,October Growth Campaign,Phone,812,54,0.0665,1.3,0.1101,1684,31.19,Completed
+CMP-097,2026-08-08,June Deposit Campaign,Digital,2735,290,0.106,3.8,0.2244,6180,21.31,Completed
+CMP-098,2026-08-10,August Premium Offer,Digital,3604,344,0.0954,1.8,0.0457,7443,21.64,Active
+CMP-099,2026-08-12,October Growth Campaign,Phone,475,50,0.1053,1.7,0.0921,815,16.3,Completed
+CMP-100,2026-08-15,September Re-engagement,Phone,1209,124,0.1026,2.7,0.0809,1941,15.65,Completed
