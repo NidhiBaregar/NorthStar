@@ -12,3 +12,8 @@ langchain-groq
 chromadb
 sentence-transformers
 python-dotenv
+langchain-huggingface
+langchain-community
+langchain-core
+langchain-groq
+sentence-transformers
